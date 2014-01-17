@@ -3,9 +3,18 @@
 }
 
 .bloco1 {
-	background-color: red;
+	background-color: white;
 }
 
 .bloco2{
-	background-color: #EEE;
+	background-color: red;
+}
+
+button{ margin-top: 10px}
+
+img{
+	height: 130px;
+	width: 200px;
+	border: 1px solid black;
+	margin: 20px;
 }
